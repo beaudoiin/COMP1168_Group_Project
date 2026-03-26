@@ -4,10 +4,10 @@ DUE DATE: Sunday April 12, 2026 (midnight)
 # Responsabilities
 
 # User 1
-* Conceptual Data Model
+* Conceptual Data Model using Draw.io or similar
 
 # User 2
-* Physical (Logical) Data Mode
+* Physical (Logical) Data Mode Using MySql WorkBench
 
 # User 3
 * 1-5 Queries
