@@ -3,7 +3,7 @@ These are just suggested responsabilities, we can discuss and decide who does wh
 DUE DATE: Sunday April 12, 2026 (midnight)
 # Responsabilities
 
-# Eric - And any one who want sto help
+# Eric - And any one who wants to help :)
 * Conceptual Data Model using Draw.io or similar
 https://drive.google.com/file/d/1-sr-7vQvrWCLeB1dwnVRgbKijT_8F3YU/view?usp=sharing
 ![Conceptual Model Updated 3/30/2026](images/conceptualmodel01.jpg)
