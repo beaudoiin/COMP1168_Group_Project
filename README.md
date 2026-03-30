@@ -11,11 +11,11 @@ https://drive.google.com/file/d/1-sr-7vQvrWCLeB1dwnVRgbKijT_8F3YU/view?usp=shari
 # User 2
 * Physical (Logical) Data Mode Using MySql WorkBench
 
-# User 3
-* 1-5 Queries
+# Zak
+* 5 Queries (communicate with other person what quiries you are doing to prevent overlap!)
 
 # User 4
-* 6-10 Queries
+* 5 Other Queries
 
 # User 5
 * Project Report
